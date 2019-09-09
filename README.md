@@ -1,6 +1,6 @@
 # JSON Fuse
 
-:file-folder: JSONFuse is a [FUSE](https://en.wikipedia.org/wiki/Filesystem_in_Userspace) based file system that 
+JSONFuse is a [FUSE](https://en.wikipedia.org/wiki/Filesystem_in_Userspace) based file system that 
 
 - uses a JSON object as source
 - serves the JSON keys as directories
