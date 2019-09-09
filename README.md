@@ -32,3 +32,9 @@ The program will run in foreground because I have set `foreground=True`. This ca
 
 * python3
 * pip3 install fusepy (not python-fuse)
+
+## Future Works
+
+- [ ] Add mkdir, rmdir methods to allow creating and deleting directories
+- [ ] Add create, write, unlink and utimes methods to allow creating and deleting files
+- [ ] Add method for dumping JSON files when files/directories are created
