@@ -1,0 +1,1703 @@
+{
+    "Afghanistan": {
+        "city": "Kabul",
+        "population": "35530081",
+        "calling_code": "93",
+        "continent": "Asia",
+        "tld": ".af"
+    },
+    "Albania": {
+        "city": "Tirana",
+        "population": "2930187",
+        "calling_code": "355",
+        "continent": "Europe",
+        "tld": ".al"
+    },
+    "Algeria": {
+        "city": "Alger",
+        "population": "41318142",
+        "calling_code": "213",
+        "continent": "Africa",
+        "tld": ".dz"
+    },
+    "American Samoa": {
+        "city": "Fagatogo",
+        "population": "55641",
+        "calling_code": "1684",
+        "continent": "Oceania",
+        "tld": ".as"
+    },
+    "Andorra": {
+        "city": "Andorra la Vella",
+        "population": "76965",
+        "calling_code": "376",
+        "continent": "Europe",
+        "tld": ".ad"
+    },
+    "Angola": {
+        "city": "Luanda",
+        "population": "29784193",
+        "calling_code": "244",
+        "continent": "Africa",
+        "tld": ".ao"
+    },
+    "Anguilla": {
+        "city": "The Valley",
+        "population": "14909",
+        "calling_code": "1264",
+        "continent": "North America",
+        "tld": ".ai"
+    },
+    "Antarctica": {
+        "city": null,
+        "population": null,
+        "calling_code": null,
+        "continent": "Antarctica",
+        "tld": ".aq"
+    },
+    "Antigua and Barbuda": {
+        "city": "Saint John's",
+        "population": "102012",
+        "calling_code": "1268",
+        "continent": "North America",
+        "tld": ".ag"
+    },
+    "Argentina": {
+        "city": "Buenos Aires",
+        "population": "44271041",
+        "calling_code": "54",
+        "continent": "South America",
+        "tld": ".ar"
+    },
+    "Armenia": {
+        "city": "Yerevan",
+        "population": "2930450",
+        "calling_code": "374",
+        "continent": "Asia",
+        "tld": ".am"
+    },
+    "Aruba": {
+        "city": "Oranjestad",
+        "population": "105264",
+        "calling_code": "297",
+        "continent": "North America",
+        "tld": ".aw"
+    },
+    "Australia": {
+        "city": "Canberra",
+        "population": "24450561",
+        "calling_code": "61",
+        "continent": "Oceania",
+        "tld": ".au"
+    },
+    "Austria": {
+        "city": "Wien",
+        "population": "8735453",
+        "calling_code": "43",
+        "continent": "Europe",
+        "tld": ".at"
+    },
+    "Azerbaijan": {
+        "city": "Baku",
+        "population": "9827589",
+        "calling_code": "994",
+        "continent": "Asia",
+        "tld": ".az"
+    },
+    "Bahamas": {
+        "city": "Nassau",
+        "population": "395361",
+        "calling_code": "1242",
+        "continent": "North America",
+        "tld": ".bs"
+    },
+    "Bahrain": {
+        "city": "al-Manama",
+        "population": "1492584",
+        "calling_code": "973",
+        "continent": "Asia",
+        "tld": ".bh"
+    },
+    "Bangladesh": {
+        "city": "Dhaka",
+        "population": "164669751",
+        "calling_code": "880",
+        "continent": "Asia",
+        "tld": ".bd"
+    },
+    "Barbados": {
+        "city": "Bridgetown",
+        "population": "285719",
+        "calling_code": "1246",
+        "continent": "North America",
+        "tld": ".bb"
+    },
+    "Belarus": {
+        "city": "Minsk",
+        "population": "9468338",
+        "calling_code": "375",
+        "continent": "Europe",
+        "tld": ".by"
+    },
+    "Belgium": {
+        "city": "Bruxelles [Brussel]",
+        "population": "11429336",
+        "calling_code": "32",
+        "continent": "Europe",
+        "tld": ".be"
+    },
+    "Belize": {
+        "city": "Belmopan",
+        "population": "374681",
+        "calling_code": "501",
+        "continent": "North America",
+        "tld": ".bz"
+    },
+    "Benin": {
+        "city": "Porto-Novo",
+        "population": "11175692",
+        "calling_code": "229",
+        "continent": "Africa",
+        "tld": ".bj"
+    },
+    "Bermuda": {
+        "city": "Hamilton",
+        "population": "61349",
+        "calling_code": "1441",
+        "continent": "North America",
+        "tld": ".bm"
+    },
+    "Bhutan": {
+        "city": "Thimphu",
+        "population": "807610",
+        "calling_code": "975",
+        "continent": "Asia",
+        "tld": ".bt"
+    },
+    "Bolivia": {
+        "city": "La Paz",
+        "population": "11051600",
+        "calling_code": "591",
+        "continent": "South America",
+        "tld": ".bo"
+    },
+    "Bosnia and Herzegovina": {
+        "city": "Sarajevo",
+        "population": "3507017",
+        "calling_code": "387",
+        "continent": "Europe",
+        "tld": ".ba"
+    },
+    "Botswana": {
+        "city": "Gaborone",
+        "population": "2291661",
+        "calling_code": "267",
+        "continent": "Africa",
+        "tld": ".bw"
+    },
+    "Bouvet Island": {
+        "city": null,
+        "population": null,
+        "calling_code": null,
+        "continent": "Antarctica",
+        "tld": ".bv"
+    },
+    "Brazil": {
+        "city": "Bras\u00edlia",
+        "population": "209288278",
+        "calling_code": "55",
+        "continent": "South America",
+        "tld": ".br"
+    },
+    "British Indian Ocean Territory": {
+        "city": null,
+        "population": null,
+        "calling_code": "246",
+        "continent": "Africa",
+        "tld": ".io"
+    },
+    "Brunei": {
+        "city": "Bandar Seri Begawan",
+        "population": "428697",
+        "calling_code": null,
+        "continent": "Asia",
+        "tld": ".bn"
+    },
+    "Bulgaria": {
+        "city": "Sofia",
+        "population": "7084571",
+        "calling_code": "359",
+        "continent": "Europe",
+        "tld": ".bg"
+    },
+    "Burkina Faso": {
+        "city": "Ouagadougou",
+        "population": "19193382",
+        "calling_code": "226",
+        "continent": "Africa",
+        "tld": ".bf"
+    },
+    "Burundi": {
+        "city": "Bujumbura",
+        "population": "10864245",
+        "calling_code": "257",
+        "continent": "Africa",
+        "tld": ".bi"
+    },
+    "Cambodia": {
+        "city": "Phnom Penh",
+        "population": "16005373",
+        "calling_code": "855",
+        "continent": "Asia",
+        "tld": ".kh"
+    },
+    "Cameroon": {
+        "city": "Yaound",
+        "population": "24053727",
+        "calling_code": "237",
+        "continent": "Africa",
+        "tld": ".cm"
+    },
+    "Canada": {
+        "city": "Ottawa",
+        "population": "36624199",
+        "calling_code": "1",
+        "continent": "North America",
+        "tld": ".ca"
+    },
+    "Cape Verde": {
+        "city": "Praia",
+        "population": "546388",
+        "calling_code": null,
+        "continent": "Africa",
+        "tld": ".cv"
+    },
+    "Cayman Islands": {
+        "city": "George Town",
+        "population": "61559",
+        "calling_code": "1345",
+        "continent": "North America",
+        "tld": ".ky"
+    },
+    "Central African Republic": {
+        "city": "Bangui",
+        "population": "4659080",
+        "calling_code": "236",
+        "continent": "Africa",
+        "tld": ".cf"
+    },
+    "Chad": {
+        "city": "N'Djam",
+        "population": "14899994",
+        "calling_code": "235",
+        "continent": "Africa",
+        "tld": ".td"
+    },
+    "Chile": {
+        "city": "Santiago de Chile",
+        "population": "18054726",
+        "calling_code": "56",
+        "continent": "South America",
+        "tld": ".cl"
+    },
+    "China": {
+        "city": "Peking",
+        "population": "1409517397",
+        "calling_code": "86",
+        "continent": "Asia",
+        "tld": ".cn"
+    },
+    "Christmas Island": {
+        "city": "Flying Fish Cove",
+        "population": "2500",
+        "calling_code": "61",
+        "continent": "Oceania",
+        "tld": ".cx"
+    },
+    "Cocos (Keeling) Islands": {
+        "city": "West Island",
+        "population": "600",
+        "calling_code": "61",
+        "continent": "Oceania",
+        "tld": ".cc"
+    },
+    "Colombia": {
+        "city": "Santaf",
+        "population": "49065615",
+        "calling_code": "57",
+        "continent": "South America",
+        "tld": ".co"
+    },
+    "Comoros": {
+        "city": "Moroni",
+        "population": "813912",
+        "calling_code": "269",
+        "continent": "Africa",
+        "tld": ".km"
+    },
+    "Congo": {
+        "city": "Brazzaville",
+        "population": "5260750",
+        "calling_code": "242",
+        "continent": "Africa",
+        "tld": ".cg"
+    },
+    "Cook Islands": {
+        "city": "Avarua",
+        "population": "17380",
+        "calling_code": "682",
+        "continent": "Oceania",
+        "tld": ".ck"
+    },
+    "Costa Rica": {
+        "city": "San Jos",
+        "population": "4905769",
+        "calling_code": "506",
+        "continent": "North America",
+        "tld": ".cr"
+    },
+    "Croatia": {
+        "city": "Zagreb",
+        "population": "4189353",
+        "calling_code": "385",
+        "continent": "Europe",
+        "tld": ".hr"
+    },
+    "Cuba": {
+        "city": "La Habana",
+        "population": "11484636",
+        "calling_code": "53",
+        "continent": "North America",
+        "tld": ".cu"
+    },
+    "Cyprus": {
+        "city": "Nicosia",
+        "population": "1179551",
+        "calling_code": "357",
+        "continent": "Asia",
+        "tld": ".cy"
+    },
+    "Czech Republic": {
+        "city": "Praha",
+        "population": "10618303",
+        "calling_code": "420",
+        "continent": "Europe",
+        "tld": ".cz"
+    },
+    "Denmark": {
+        "city": "Copenhagen",
+        "population": "5733551",
+        "calling_code": "45",
+        "continent": "Europe",
+        "tld": ".dk"
+    },
+    "Djibouti": {
+        "city": "Djibouti",
+        "population": "956985",
+        "calling_code": "253",
+        "continent": "Africa",
+        "tld": ".dj"
+    },
+    "Dominica": {
+        "city": "Roseau",
+        "population": "73925",
+        "calling_code": "1767",
+        "continent": "North America",
+        "tld": ".dm"
+    },
+    "Dominican Republic": {
+        "city": "Santo Domingo de Guzm",
+        "population": "10766998",
+        "calling_code": "1849",
+        "continent": "North America",
+        "tld": ".do"
+    },
+    "East Timor": {
+        "city": "Dili",
+        "population": "1296311",
+        "calling_code": "670",
+        "continent": "Asia",
+        "tld": ".tl"
+    },
+    "Ecuador": {
+        "city": "Quito",
+        "population": "16624858",
+        "calling_code": "593",
+        "continent": "South America",
+        "tld": ".ec"
+    },
+    "Egypt": {
+        "city": "Cairo",
+        "population": "97553151",
+        "calling_code": "20",
+        "continent": "Africa",
+        "tld": ".eg"
+    },
+    "El Salvador": {
+        "city": "San Salvador",
+        "population": "6377853",
+        "calling_code": "503",
+        "continent": "North America",
+        "tld": ".sv"
+    },
+    "England": {
+        "city": "London",
+        "population": null,
+        "calling_code": null,
+        "continent": null,
+        "tld": null
+    },
+    "Equatorial Guinea": {
+        "city": "Malabo",
+        "population": "1267689",
+        "calling_code": "240",
+        "continent": "Africa",
+        "tld": ".gq"
+    },
+    "Eritrea": {
+        "city": "Asmara",
+        "population": "5068831",
+        "calling_code": "291",
+        "continent": "Africa",
+        "tld": ".er"
+    },
+    "Estonia": {
+        "city": "Tallinn",
+        "population": "1309632",
+        "calling_code": "372",
+        "continent": "Europe",
+        "tld": ".ee"
+    },
+    "Ethiopia": {
+        "city": "Addis Abeba",
+        "population": "104957438",
+        "calling_code": "251",
+        "continent": "Africa",
+        "tld": ".et"
+    },
+    "Falkland Islands": {
+        "city": "Stanley",
+        "population": "2910",
+        "calling_code": "500",
+        "continent": "South America",
+        "tld": ".fk"
+    },
+    "Faroe Islands": {
+        "city": "T\u00f3rshavn",
+        "population": "49290",
+        "calling_code": "298",
+        "continent": "Europe",
+        "tld": null
+    },
+    "Fiji Islands": {
+        "city": "Suva",
+        "population": "905502",
+        "calling_code": null,
+        "continent": "Oceania",
+        "tld": ".fj"
+    },
+    "Finland": {
+        "city": "Helsinki [Helsingfors]",
+        "population": "5523231",
+        "calling_code": "358",
+        "continent": "Europe",
+        "tld": ".fi"
+    },
+    "France": {
+        "city": "Paris",
+        "population": "64979548",
+        "calling_code": "33",
+        "continent": "Europe",
+        "tld": ".fr"
+    },
+    "French Guiana": {
+        "city": "Cayenne",
+        "population": "282731",
+        "calling_code": "594",
+        "continent": "South America",
+        "tld": ".gf"
+    },
+    "French Polynesia": {
+        "city": "Papeete",
+        "population": "283007",
+        "calling_code": "689",
+        "continent": "Oceania",
+        "tld": ".pf"
+    },
+    "French Southern territories": {
+        "city": null,
+        "population": null,
+        "calling_code": null,
+        "continent": "Antarctica",
+        "tld": ".tf"
+    },
+    "Gabon": {
+        "city": "Libreville",
+        "population": "2025137",
+        "calling_code": "241",
+        "continent": "Africa",
+        "tld": ".ga"
+    },
+    "Gambia": {
+        "city": "Banjul",
+        "population": "2100568",
+        "calling_code": "220",
+        "continent": "Africa",
+        "tld": ".gm"
+    },
+    "Georgia": {
+        "city": "Tbilisi",
+        "population": "3912061",
+        "calling_code": "995",
+        "continent": "Asia",
+        "tld": ".ge"
+    },
+    "Germany": {
+        "city": "Berlin",
+        "population": "82114224",
+        "calling_code": "49",
+        "continent": "Europe",
+        "tld": ".de"
+    },
+    "Ghana": {
+        "city": "Accra",
+        "population": "28833629",
+        "calling_code": "233",
+        "continent": "Africa",
+        "tld": ".gh"
+    },
+    "Gibraltar": {
+        "city": "Gibraltar",
+        "population": "34571",
+        "calling_code": "350",
+        "continent": "Europe",
+        "tld": ".gi"
+    },
+    "Greece": {
+        "city": "Athenai",
+        "population": "11159773",
+        "calling_code": "30",
+        "continent": "Europe",
+        "tld": ".gr"
+    },
+    "Greenland": {
+        "city": "Nuuk",
+        "population": "56480",
+        "calling_code": "299",
+        "continent": "North America",
+        "tld": ".gl"
+    },
+    "Grenada": {
+        "city": "Saint George's",
+        "population": "107825",
+        "calling_code": "1473",
+        "continent": "North America",
+        "tld": ".gd"
+    },
+    "Guadeloupe": {
+        "city": "Basse-Terre",
+        "population": "449568",
+        "calling_code": "590",
+        "continent": "North America",
+        "tld": ".gp"
+    },
+    "Guam": {
+        "city": "Aga",
+        "population": "164229",
+        "calling_code": "1671",
+        "continent": "Oceania",
+        "tld": ".gu"
+    },
+    "Guatemala": {
+        "city": "Ciudad de Guatemala",
+        "population": "16913503",
+        "calling_code": "502",
+        "continent": "North America",
+        "tld": ".gt"
+    },
+    "Guinea": {
+        "city": "Conakry",
+        "population": "12717176",
+        "calling_code": "224",
+        "continent": "Africa",
+        "tld": ".gn"
+    },
+    "Guinea-Bissau": {
+        "city": "Bissau",
+        "population": "1861283",
+        "calling_code": "245",
+        "continent": "Africa",
+        "tld": ".gw"
+    },
+    "Guyana": {
+        "city": "Georgetown",
+        "population": "777859",
+        "calling_code": "592",
+        "continent": "South America",
+        "tld": ".gy"
+    },
+    "Haiti": {
+        "city": "Port-au-Prince",
+        "population": "10981229",
+        "calling_code": "509",
+        "continent": "North America",
+        "tld": ".ht"
+    },
+    "Heard Island and McDonald Islands": {
+        "city": null,
+        "population": null,
+        "calling_code": null,
+        "continent": "Antarctica",
+        "tld": ".hm"
+    },
+    "Holy See (Vatican City State)": {
+        "city": "Citt",
+        "population": "1000",
+        "calling_code": null,
+        "continent": "Europe",
+        "tld": ".va"
+    },
+    "Honduras": {
+        "city": "Tegucigalpa",
+        "population": "9265067",
+        "calling_code": "504",
+        "continent": "North America",
+        "tld": ".hn"
+    },
+    "Hong Kong": {
+        "city": "Victoria",
+        "population": "7364883",
+        "calling_code": "852",
+        "continent": "Asia",
+        "tld": ".hk"
+    },
+    "Hungary": {
+        "city": "Budapest",
+        "population": "9721559",
+        "calling_code": "36",
+        "continent": "Europe",
+        "tld": ".hu"
+    },
+    "Iceland": {
+        "city": "Reykjav",
+        "population": "335025",
+        "calling_code": "354",
+        "continent": "Europe",
+        "tld": ".is"
+    },
+    "India": {
+        "city": "New Delhi",
+        "population": "1339180127",
+        "calling_code": "91",
+        "continent": "Asia",
+        "tld": ".in"
+    },
+    "Indonesia": {
+        "city": "Jakarta",
+        "population": "263991379",
+        "calling_code": "62",
+        "continent": "Asia",
+        "tld": ".id"
+    },
+    "Iran": {
+        "city": "Tehran",
+        "population": "81162788",
+        "calling_code": "98",
+        "continent": "Asia",
+        "tld": ".ir"
+    },
+    "Iraq": {
+        "city": "Baghdad",
+        "population": "38274618",
+        "calling_code": "964",
+        "continent": "Asia",
+        "tld": ".iq"
+    },
+    "Ireland": {
+        "city": "Dublin",
+        "population": "4761657",
+        "calling_code": "353",
+        "continent": "Europe",
+        "tld": ".ie"
+    },
+    "Israel": {
+        "city": "Jerusalem",
+        "population": "8321570",
+        "calling_code": "972",
+        "continent": "Asia",
+        "tld": ".il"
+    },
+    "Italy": {
+        "city": "Roma",
+        "population": "59359900",
+        "calling_code": "39",
+        "continent": "Europe",
+        "tld": ".it"
+    },
+    "Ivory Coast": {
+        "city": "Yamoussoukro",
+        "population": "24294750",
+        "calling_code": "225",
+        "continent": "Africa",
+        "tld": ".ci"
+    },
+    "Jamaica": {
+        "city": "Kingston",
+        "population": "2890299",
+        "calling_code": "1876",
+        "continent": "North America",
+        "tld": ".jm"
+    },
+    "Japan": {
+        "city": "Tokyo",
+        "population": "127484450",
+        "calling_code": "81",
+        "continent": "Asia",
+        "tld": ".jp"
+    },
+    "Jordan": {
+        "city": "Amman",
+        "population": "9702353",
+        "calling_code": "962",
+        "continent": "Asia",
+        "tld": ".jo"
+    },
+    "Kazakhstan": {
+        "city": "Astana",
+        "population": "18204499",
+        "calling_code": "7",
+        "continent": null,
+        "tld": ".kz"
+    },
+    "Kenya": {
+        "city": "Nairobi",
+        "population": "49699862",
+        "calling_code": "254",
+        "continent": "Africa",
+        "tld": ".ke"
+    },
+    "Kiribati": {
+        "city": "Bairiki",
+        "population": "116398",
+        "calling_code": "686",
+        "continent": "Oceania",
+        "tld": ".ki"
+    },
+    "Kuwait": {
+        "city": "Kuwait",
+        "population": "4136528",
+        "calling_code": "965",
+        "continent": "Asia",
+        "tld": ".kw"
+    },
+    "Kyrgyzstan": {
+        "city": "Bishkek",
+        "population": "6045117",
+        "calling_code": "996",
+        "continent": "Asia",
+        "tld": ".kg"
+    },
+    "Laos": {
+        "city": "Vientiane",
+        "population": "6858160",
+        "calling_code": "856",
+        "continent": "Asia",
+        "tld": ".la"
+    },
+    "Latvia": {
+        "city": "Riga",
+        "population": "1949670",
+        "calling_code": "371",
+        "continent": "Europe",
+        "tld": ".lv"
+    },
+    "Lebanon": {
+        "city": "Beirut",
+        "population": "6082357",
+        "calling_code": "961",
+        "continent": "Asia",
+        "tld": ".lb"
+    },
+    "Lesotho": {
+        "city": "Maseru",
+        "population": "2233339",
+        "calling_code": "266",
+        "continent": "Africa",
+        "tld": ".ls"
+    },
+    "Liberia": {
+        "city": "Monrovia",
+        "population": "4731906",
+        "calling_code": "231",
+        "continent": "Africa",
+        "tld": ".lr"
+    },
+    "Libyan Arab Jamahiriya": {
+        "city": "Tripoli",
+        "population": "5605000",
+        "calling_code": null,
+        "continent": "Africa",
+        "tld": ".ly"
+    },
+    "Liechtenstein": {
+        "city": "Vaduz",
+        "population": "37922",
+        "calling_code": "423",
+        "continent": "Europe",
+        "tld": ".li"
+    },
+    "Lithuania": {
+        "city": "Vilnius",
+        "population": "2890297",
+        "calling_code": "370",
+        "continent": "Europe",
+        "tld": ".lt"
+    },
+    "Luxembourg": {
+        "city": "Luxembourg [Luxemburg/L",
+        "population": "583455",
+        "calling_code": "352",
+        "continent": "Europe",
+        "tld": ".lu"
+    },
+    "Macao": {
+        "city": "Macao",
+        "population": "473000",
+        "calling_code": null,
+        "continent": "Asia",
+        "tld": ".mo"
+    },
+    "North Macedonia": {
+        "city": "Skopje",
+        "population": "2024000",
+        "calling_code": "389",
+        "continent": "Europe",
+        "tld": ".mk"
+    },
+    "Madagascar": {
+        "city": "Antananarivo",
+        "population": "25570895",
+        "calling_code": "261",
+        "continent": "Africa",
+        "tld": ".mg"
+    },
+    "Malawi": {
+        "city": "Lilongwe",
+        "population": "18622104",
+        "calling_code": "265",
+        "continent": "Africa",
+        "tld": ".mw"
+    },
+    "Malaysia": {
+        "city": "Kuala Lumpur",
+        "population": "31624264",
+        "calling_code": "60",
+        "continent": "Asia",
+        "tld": ".my"
+    },
+    "Maldives": {
+        "city": "Male",
+        "population": "436330",
+        "calling_code": "960",
+        "continent": "Asia",
+        "tld": ".mv"
+    },
+    "Mali": {
+        "city": "Bamako",
+        "population": "18541980",
+        "calling_code": "223",
+        "continent": "Africa",
+        "tld": ".ml"
+    },
+    "Malta": {
+        "city": "Valletta",
+        "population": "430835",
+        "calling_code": "356",
+        "continent": "Europe",
+        "tld": ".mt"
+    },
+    "Marshall Islands": {
+        "city": "Dalap-Uliga-Darrit",
+        "population": "53127",
+        "calling_code": "692",
+        "continent": "Oceania",
+        "tld": ".mh"
+    },
+    "Martinique": {
+        "city": "Fort-de-France",
+        "population": "384896",
+        "calling_code": "596",
+        "continent": "North America",
+        "tld": ".mq"
+    },
+    "Mauritania": {
+        "city": "Nouakchott",
+        "population": "4420184",
+        "calling_code": "222",
+        "continent": "Africa",
+        "tld": ".mr"
+    },
+    "Mauritius": {
+        "city": "Port-Louis",
+        "population": "1265138",
+        "calling_code": "230",
+        "continent": "Africa",
+        "tld": ".mu"
+    },
+    "Mayotte": {
+        "city": "Mamoutzou",
+        "population": "253045",
+        "calling_code": "262",
+        "continent": "Africa",
+        "tld": ".yt"
+    },
+    "Mexico": {
+        "city": "Ciudad de M",
+        "population": "129163276",
+        "calling_code": "52",
+        "continent": "North America",
+        "tld": ".mx"
+    },
+    "Micronesia, Federated States of": {
+        "city": "Palikir",
+        "population": null,
+        "calling_code": "691",
+        "continent": null,
+        "tld": null
+    },
+    "Moldova": {
+        "city": "Chisinau",
+        "population": "4051212",
+        "calling_code": "373",
+        "continent": "Europe",
+        "tld": ".md"
+    },
+    "Monaco": {
+        "city": "Monaco-Ville",
+        "population": "38695",
+        "calling_code": "377",
+        "continent": "Europe",
+        "tld": ".mc"
+    },
+    "Mongolia": {
+        "city": "Ulan Bator",
+        "population": "3075647",
+        "calling_code": "976",
+        "continent": "Asia",
+        "tld": ".mn"
+    },
+    "Montserrat": {
+        "city": "Plymouth",
+        "population": "5177",
+        "calling_code": "1664",
+        "continent": "North America",
+        "tld": ".ms"
+    },
+    "Morocco": {
+        "city": "Rabat",
+        "population": "35739580",
+        "calling_code": "212",
+        "continent": "Africa",
+        "tld": ".ma"
+    },
+    "Mozambique": {
+        "city": "Maputo",
+        "population": "29668834",
+        "calling_code": "258",
+        "continent": "Africa",
+        "tld": ".mz"
+    },
+    "Myanmar": {
+        "city": "Rangoon (Yangon)",
+        "population": "53370609",
+        "calling_code": "95",
+        "continent": "Asia",
+        "tld": ".mm"
+    },
+    "Namibia": {
+        "city": "Windhoek",
+        "population": "2533794",
+        "calling_code": "264",
+        "continent": "Africa",
+        "tld": ".na"
+    },
+    "Nauru": {
+        "city": "Yaren",
+        "population": "11359",
+        "calling_code": "674",
+        "continent": "Oceania",
+        "tld": ".nr"
+    },
+    "Nepal": {
+        "city": "Kathmandu",
+        "population": "29304998",
+        "calling_code": "977",
+        "continent": "Asia",
+        "tld": ".np"
+    },
+    "Netherlands": {
+        "city": "Amsterdam",
+        "population": "17035938",
+        "calling_code": "31",
+        "continent": "Europe",
+        "tld": ".nl"
+    },
+    "Netherlands Antilles": {
+        "city": "Willemstad",
+        "population": "217000",
+        "calling_code": null,
+        "continent": "North America",
+        "tld": ".an"
+    },
+    "New Caledonia": {
+        "city": "Noum",
+        "population": "276255",
+        "calling_code": "687",
+        "continent": "Oceania",
+        "tld": ".nc"
+    },
+    "New Zealand": {
+        "city": "Wellington",
+        "population": "4705818",
+        "calling_code": "64",
+        "continent": "Oceania",
+        "tld": ".nz"
+    },
+    "Nicaragua": {
+        "city": "Managua",
+        "population": "6217581",
+        "calling_code": "505",
+        "continent": "North America",
+        "tld": ".ni"
+    },
+    "Niger": {
+        "city": "Niamey",
+        "population": "21477348",
+        "calling_code": "227",
+        "continent": "Africa",
+        "tld": ".ne"
+    },
+    "Nigeria": {
+        "city": "Abuja",
+        "population": "190886311",
+        "calling_code": "234",
+        "continent": "Africa",
+        "tld": ".ng"
+    },
+    "Niue": {
+        "city": "Alofi",
+        "population": "1618",
+        "calling_code": "683",
+        "continent": "Oceania",
+        "tld": ".nu"
+    },
+    "Norfolk Island": {
+        "city": "Kingston",
+        "population": "2000",
+        "calling_code": "672",
+        "continent": "Oceania",
+        "tld": ".nf"
+    },
+    "North Korea": {
+        "city": "Pyongyang",
+        "population": "25490965",
+        "calling_code": null,
+        "continent": "Asia",
+        "tld": ".kp"
+    },
+    "Northern Ireland": {
+        "city": "Belfast",
+        "population": null,
+        "calling_code": null,
+        "continent": null,
+        "tld": null
+    },
+    "Northern Mariana Islands": {
+        "city": "Garapan",
+        "population": "55144",
+        "calling_code": "1670",
+        "continent": "Oceania",
+        "tld": ".mp"
+    },
+    "Norway": {
+        "city": "Oslo",
+        "population": "5305383",
+        "calling_code": "47",
+        "continent": "Europe",
+        "tld": ".no"
+    },
+    "Oman": {
+        "city": "Masqat",
+        "population": "4636262",
+        "calling_code": "968",
+        "continent": "Asia",
+        "tld": ".om"
+    },
+    "Pakistan": {
+        "city": "Islamabad",
+        "population": "197015955",
+        "calling_code": "92",
+        "continent": "Asia",
+        "tld": ".pk"
+    },
+    "Palau": {
+        "city": "Koror",
+        "population": "21729",
+        "calling_code": "680",
+        "continent": "Oceania",
+        "tld": ".pw"
+    },
+    "Palestine": {
+        "city": "Gaza",
+        "population": "4920724",
+        "calling_code": null,
+        "continent": "Asia",
+        "tld": ".ps"
+    },
+    "Panama": {
+        "city": "Ciudad de Panam",
+        "population": "4098587",
+        "calling_code": "507",
+        "continent": "North America",
+        "tld": ".pa"
+    },
+    "Papua New Guinea": {
+        "city": "Port Moresby",
+        "population": "8251162",
+        "calling_code": "675",
+        "continent": "Oceania",
+        "tld": ".pg"
+    },
+    "Paraguay": {
+        "city": "Asunci",
+        "population": "6811297",
+        "calling_code": "595",
+        "continent": "South America",
+        "tld": ".py"
+    },
+    "Peru": {
+        "city": "Lima",
+        "population": "32165485",
+        "calling_code": "51",
+        "continent": "South America",
+        "tld": ".pe"
+    },
+    "Philippines": {
+        "city": "Manila",
+        "population": "104918090",
+        "calling_code": "63",
+        "continent": "Asia",
+        "tld": ".ph"
+    },
+    "Pitcairn": {
+        "city": "Adamstown",
+        "population": "50",
+        "calling_code": null,
+        "continent": "Oceania",
+        "tld": ".pn"
+    },
+    "Poland": {
+        "city": "Warszawa",
+        "population": "38170712",
+        "calling_code": "48",
+        "continent": "Europe",
+        "tld": ".pl"
+    },
+    "Portugal": {
+        "city": "Lisboa",
+        "population": "10329506",
+        "calling_code": "351",
+        "continent": "Europe",
+        "tld": ".pt"
+    },
+    "Puerto Rico": {
+        "city": "San Juan",
+        "population": "3663131",
+        "calling_code": "1939",
+        "continent": "North America",
+        "tld": ".pr"
+    },
+    "Qatar": {
+        "city": "Doha",
+        "population": "2639211",
+        "calling_code": "974",
+        "continent": "Asia",
+        "tld": ".qa"
+    },
+    "Reunion": {
+        "city": "Saint-Denis",
+        "population": "699000",
+        "calling_code": "262",
+        "continent": "Africa",
+        "tld": ".re"
+    },
+    "Romania": {
+        "city": "Bucuresti",
+        "population": "19679306",
+        "calling_code": "40",
+        "continent": "Europe",
+        "tld": ".ro"
+    },
+    "Russian Federation": {
+        "city": "Moscow",
+        "population": "143989754",
+        "calling_code": "7",
+        "continent": "Europe",
+        "tld": ".ru"
+    },
+    "Rwanda": {
+        "city": "Kigali",
+        "population": "12208407",
+        "calling_code": "250",
+        "continent": "Africa",
+        "tld": ".rw"
+    },
+    "Saint Helena": {
+        "city": "Jamestown",
+        "population": "4049",
+        "calling_code": "290",
+        "continent": "Africa",
+        "tld": ".sh"
+    },
+    "Saint Kitts and Nevis": {
+        "city": "Basseterre",
+        "population": "55345",
+        "calling_code": "1869",
+        "continent": "North America",
+        "tld": ".kn"
+    },
+    "Saint Lucia": {
+        "city": "Castries",
+        "population": "178844",
+        "calling_code": "1758",
+        "continent": "North America",
+        "tld": ".lc"
+    },
+    "Saint Pierre and Miquelon": {
+        "city": "Saint-Pierre",
+        "population": "6320",
+        "calling_code": "508",
+        "continent": "North America",
+        "tld": ".pm"
+    },
+    "Saint Vincent and the Grenadines": {
+        "city": "Kingstown",
+        "population": "109897",
+        "calling_code": "1784",
+        "continent": "North America",
+        "tld": ".vc"
+    },
+    "Samoa": {
+        "city": "Apia",
+        "population": "196440",
+        "calling_code": "685",
+        "continent": "Oceania",
+        "tld": ".ws"
+    },
+    "San Marino": {
+        "city": "San Marino",
+        "population": "33400",
+        "calling_code": "378",
+        "continent": "Europe",
+        "tld": ".sm"
+    },
+    "Sao Tome and Principe": {
+        "city": "S",
+        "population": "204327",
+        "calling_code": "239",
+        "continent": "Africa",
+        "tld": ".st"
+    },
+    "Saudi Arabia": {
+        "city": "Riyadh",
+        "population": "32938213",
+        "calling_code": "966",
+        "continent": "Asia",
+        "tld": ".sa"
+    },
+    "Scotland": {
+        "city": "Edinburgh",
+        "population": null,
+        "calling_code": null,
+        "continent": null,
+        "tld": null
+    },
+    "Senegal": {
+        "city": "Dakar",
+        "population": "15850567",
+        "calling_code": "221",
+        "continent": "Africa",
+        "tld": ".sn"
+    },
+    "Seychelles": {
+        "city": "Victoria",
+        "population": "94737",
+        "calling_code": "248",
+        "continent": "Africa",
+        "tld": ".sc"
+    },
+    "Sierra Leone": {
+        "city": "Freetown",
+        "population": "7557212",
+        "calling_code": "232",
+        "continent": "Africa",
+        "tld": ".sl"
+    },
+    "Singapore": {
+        "city": "Singapore",
+        "population": "5708844",
+        "calling_code": "65",
+        "continent": "Asia",
+        "tld": ".sg"
+    },
+    "Slovakia": {
+        "city": "Bratislava",
+        "population": "5447662",
+        "calling_code": "421",
+        "continent": "Europe",
+        "tld": ".sk"
+    },
+    "Slovenia": {
+        "city": "Ljubljana",
+        "population": "2079976",
+        "calling_code": "386",
+        "continent": "Europe",
+        "tld": ".si"
+    },
+    "Solomon Islands": {
+        "city": "Honiara",
+        "population": "611343",
+        "calling_code": "677",
+        "continent": "Oceania",
+        "tld": ".sb"
+    },
+    "Somalia": {
+        "city": "Mogadishu",
+        "population": "14742523",
+        "calling_code": "252",
+        "continent": "Africa",
+        "tld": ".so"
+    },
+    "South Africa": {
+        "city": "Pretoria",
+        "population": "56717156",
+        "calling_code": "27",
+        "continent": "Africa",
+        "tld": ".za"
+    },
+    "South Georgia and the South Sandwich Islands": {
+        "city": null,
+        "population": null,
+        "calling_code": "500",
+        "continent": "Antarctica",
+        "tld": ".gs"
+    },
+    "South Korea": {
+        "city": "Seoul",
+        "population": "50982212",
+        "calling_code": null,
+        "continent": "Asia",
+        "tld": ".kr"
+    },
+    "South Sudan": {
+        "city": "Juba",
+        "population": "12575714",
+        "calling_code": "211",
+        "continent": "Africa",
+        "tld": ".ss"
+    },
+    "Spain": {
+        "city": "Madrid",
+        "population": "46354321",
+        "calling_code": "34",
+        "continent": "Europe",
+        "tld": ".es"
+    },
+    "SriLanka": {
+        "city": null,
+        "population": "20876917",
+        "calling_code": null,
+        "continent": null,
+        "tld": ".lk"
+    },
+    "Sudan": {
+        "city": "Khartum",
+        "population": "40533330",
+        "calling_code": "249",
+        "continent": "Africa",
+        "tld": ".sd"
+    },
+    "Suriname": {
+        "city": "Paramaribo",
+        "population": "563402",
+        "calling_code": "597",
+        "continent": "South America",
+        "tld": ".sr"
+    },
+    "Svalbard and Jan Mayen": {
+        "city": "Longyearbyen",
+        "population": "3200",
+        "calling_code": null,
+        "continent": "Europe",
+        "tld": ".sj"
+    },
+    "Swaziland": {
+        "city": "Mbabane",
+        "population": "1008000",
+        "calling_code": "268",
+        "continent": "Africa",
+        "tld": ".sz"
+    },
+    "Sweden": {
+        "city": "Stockholm",
+        "population": "9910701",
+        "calling_code": "46",
+        "continent": "Europe",
+        "tld": ".se"
+    },
+    "Switzerland": {
+        "city": "Bern",
+        "population": "8476005",
+        "calling_code": "41",
+        "continent": "Europe",
+        "tld": ".ch"
+    },
+    "Syria": {
+        "city": "Damascus",
+        "population": "18269868",
+        "calling_code": "963",
+        "continent": "Asia",
+        "tld": ".sy"
+    },
+    "Tajikistan": {
+        "city": "Dushanbe",
+        "population": "8921343",
+        "calling_code": "992",
+        "continent": "Asia",
+        "tld": ".tj"
+    },
+    "Tanzania": {
+        "city": "Dodoma",
+        "population": "57310019",
+        "calling_code": "255",
+        "continent": "Africa",
+        "tld": ".tz"
+    },
+    "Thailand": {
+        "city": "Bangkok",
+        "population": "69037513",
+        "calling_code": "66",
+        "continent": "Asia",
+        "tld": ".th"
+    },
+    "The Democratic Republic of Congo": {
+        "city": null,
+        "population": null,
+        "calling_code": null,
+        "continent": null,
+        "tld": ".cd"
+    },
+    "Togo": {
+        "city": "Lom",
+        "population": "7797694",
+        "calling_code": "228",
+        "continent": "Africa",
+        "tld": ".tg"
+    },
+    "Tokelau": {
+        "city": "Fakaofo",
+        "population": "1300",
+        "calling_code": "690",
+        "continent": "Oceania",
+        "tld": ".tk"
+    },
+    "Tonga": {
+        "city": "Nuku'alofa",
+        "population": "108020",
+        "calling_code": "676",
+        "continent": "Oceania",
+        "tld": ".to"
+    },
+    "Trinidad and Tobago": {
+        "city": "Port-of-Spain",
+        "population": "1369125",
+        "calling_code": "1868",
+        "continent": "North America",
+        "tld": ".tt"
+    },
+    "Tunisia": {
+        "city": "Tunis",
+        "population": "11532127",
+        "calling_code": "216",
+        "continent": "Africa",
+        "tld": ".tn"
+    },
+    "Turkey": {
+        "city": "Ankara",
+        "population": "80745020",
+        "calling_code": "90",
+        "continent": "Asia",
+        "tld": ".tr"
+    },
+    "Turkmenistan": {
+        "city": "Ashgabat",
+        "population": "5758075",
+        "calling_code": "993",
+        "continent": "Asia",
+        "tld": ".tm"
+    },
+    "Turks and Caicos Islands": {
+        "city": "Cockburn Town",
+        "population": "35446",
+        "calling_code": "1649",
+        "continent": "North America",
+        "tld": ".tc"
+    },
+    "Tuvalu": {
+        "city": "Funafuti",
+        "population": "11192",
+        "calling_code": "688",
+        "continent": "Oceania",
+        "tld": ".tv"
+    },
+    "Uganda": {
+        "city": "Kampala",
+        "population": "42862958",
+        "calling_code": "256",
+        "continent": "Africa",
+        "tld": ".ug"
+    },
+    "Ukraine": {
+        "city": "Kyiv",
+        "population": "44222947",
+        "calling_code": "380",
+        "continent": "Europe",
+        "tld": ".ua"
+    },
+    "United Arab Emirates": {
+        "city": "Abu Dhabi",
+        "population": "9400145",
+        "calling_code": "971",
+        "continent": "Asia",
+        "tld": ".ae"
+    },
+    "United Kingdom": {
+        "city": "London",
+        "population": "66181585",
+        "calling_code": "44",
+        "continent": "Europe",
+        "tld": ".gb"
+    },
+    "United States": {
+        "city": "Washington",
+        "population": "324459463",
+        "calling_code": "1",
+        "continent": "North America",
+        "tld": ".us"
+    },
+    "United States Minor Outlying Islands": {
+        "city": null,
+        "population": null,
+        "calling_code": null,
+        "continent": "Oceania",
+        "tld": null
+    },
+    "Uruguay": {
+        "city": "Montevideo",
+        "population": "3456750",
+        "calling_code": "598",
+        "continent": "South America",
+        "tld": ".uy"
+    },
+    "Uzbekistan": {
+        "city": "Toskent",
+        "population": "31910641",
+        "calling_code": "998",
+        "continent": "Asia",
+        "tld": ".uz"
+    },
+    "Vanuatu": {
+        "city": "Port-Vila",
+        "population": "276244",
+        "calling_code": "678",
+        "continent": "Oceania",
+        "tld": ".vu"
+    },
+    "Venezuela": {
+        "city": "Caracas",
+        "population": "31977065",
+        "calling_code": "58",
+        "continent": "South America",
+        "tld": ".ve"
+    },
+    "Vietnam": {
+        "city": "Hanoi",
+        "population": "95540800",
+        "calling_code": "84",
+        "continent": "Asia",
+        "tld": ".vn"
+    },
+    "Virgin Islands, British": {
+        "city": "Road Town",
+        "population": null,
+        "calling_code": null,
+        "continent": null,
+        "tld": ".vg"
+    },
+    "Virgin Islands, U.S.": {
+        "city": "Charlotte Amalie",
+        "population": null,
+        "calling_code": null,
+        "continent": null,
+        "tld": ".vi"
+    },
+    "Wales": {
+        "city": "Cardiff",
+        "population": null,
+        "calling_code": null,
+        "continent": null,
+        "tld": null
+    },
+    "Wallis and Futuna": {
+        "city": "Mata-Utu",
+        "population": "11773",
+        "calling_code": "681",
+        "continent": "Oceania",
+        "tld": ".wf"
+    },
+    "Western Sahara": {
+        "city": "El-Aai",
+        "population": "552628",
+        "calling_code": null,
+        "continent": "Africa",
+        "tld": ".eh"
+    },
+    "Yemen": {
+        "city": "Sanaa",
+        "population": "28250420",
+        "calling_code": "967",
+        "continent": "Asia",
+        "tld": ".ye"
+    },
+    "Yugoslavia": {
+        "city": "Beograd",
+        "population": "10640000",
+        "calling_code": null,
+        "continent": "Europe",
+        "tld": null
+    },
+    "Zambia": {
+        "city": "Lusaka",
+        "population": "17094130",
+        "calling_code": "260",
+        "continent": "Africa",
+        "tld": ".zm"
+    },
+    "Zimbabwe": {
+        "city": "Harare",
+        "population": "16529904",
+        "calling_code": "263",
+        "continent": "Africa",
+        "tld": ".zw"
+    }
+}
