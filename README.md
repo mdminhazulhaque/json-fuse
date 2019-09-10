@@ -25,6 +25,35 @@ The program is written in Python3. The following line is enough to mount the fil
 ```
 python3 json-fuse.py source.json /path/to/mount/point
 ```
+An example run-through would look like this
+
+```
+$ tail contries.json
+    "Zambia": {
+        "city": "Lusaka",
+        "population": "17094130",
+        "calling_code": "260",
+        "continent": "Africa",
+        "tld": ".zm"
+    },
+    "Zimbabwe": {
+        "city": "Harare",
+        "population": "16529904",
+        "calling_code": "263",
+        "continent": "Africa",
+        "tld": ".zw"
+    }
+}
+$ python3 json-fuse.py contries.json /mnt
+$ tree /mnt/Zimbabwe
+mnt
+└── Zimbabwe
+    ├── calling_code
+    ├── city
+    ├── continent
+    ├── population
+    └── tld
+```
 
 The program will run in foreground because I have set `foreground=True`. This can be set to `False` to make it a daemon.
 
@@ -35,6 +64,6 @@ The program will run in foreground because I have set `foreground=True`. This ca
 
 ## Future Works
 
-- [ ] Add mkdir, rmdir methods to allow creating and deleting directories
-- [ ] Add create, write, unlink and utimes methods to allow creating and deleting files
+- [ ] Add `mkdir`, `rmdir` methods to allow creating and deleting directories
+- [ ] Add `create`, `write`, `unlink` and `utimes` methods to allow creating and deleting files
 - [ ] Add method for dumping JSON files when files/directories are created
