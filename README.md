@@ -28,7 +28,7 @@ python3 json-fuse.py source.json /path/to/mount/point
 An example run-through would look like this
 
 ```
-$ tail contries.json
+$ tail countries.json
     "Zambia": {
         "city": "Lusaka",
         "population": "17094130",
@@ -44,7 +44,7 @@ $ tail contries.json
         "tld": ".zw"
     }
 }
-$ python3 json-fuse.py contries.json /mnt
+$ python3 json-fuse.py countries.json /mnt
 $ tree /mnt/Zimbabwe
 mnt
 └── Zimbabwe
