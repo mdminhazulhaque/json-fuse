@@ -53,6 +53,10 @@ mnt
     ├── continent
     ├── population
     └── tld
+$ cat /mnt/Zimbabwe/tld
+.zw
+$ cat /mnt/Zimbabwe/continent
+Africa
 ```
 
 The program will run in foreground because I have set `foreground=True`. This can be set to `False` to make it a daemon.
