@@ -5,8 +5,8 @@ __license__ = "GPLv3"
 
 """
 Copyright (c) 2019 Md. Minhazul Haque
-This file is part of mdminhazulhaque/bd-mrp-api
-(see https://github.com/mdminhazulhaque/banglalionwimaxapi).
+This file is part of mdminhazulhaque/json-fuse
+(see https://github.com/mdminhazulhaque/json-fuse).
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
@@ -27,7 +27,7 @@ def xpath_get(mydict, path):
     try:
         for x in path.strip("/").split("/"):
             elem = elem.get(x)
-    except:
+    except AttributeError:
         pass
     return elem
 

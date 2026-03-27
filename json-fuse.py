@@ -5,8 +5,8 @@ __license__ = "GPLv3"
 
 """
 Copyright (c) 2019 Md. Minhazul Haque
-This file is part of mdminhazulhaque/bd-mrp-api
-(see https://github.com/mdminhazulhaque/banglalionwimaxapi).
+This file is part of mdminhazulhaque/json-fuse
+(see https://github.com/mdminhazulhaque/json-fuse).
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
@@ -21,6 +21,7 @@ along with this program. If not, see <http://www.gnu.org/licenses/>.
 
 from __future__ import print_function, absolute_import, division
 
+import errno
 import logging
 import json
 
@@ -33,11 +34,13 @@ if not hasattr(__builtins__, 'bytes'):
 class JSONFuse(LoggingMixIn, Operations):
     def __init__(self, jsonfile):
         try:
-            logging.error(jsonfile)
+            logging.info(jsonfile)
             with open(jsonfile, "r") as fp:
                 self.files = json.load(fp)
-        except:
-            raise Exception("JSON file could not be parsed")
+        except (IOError, json.JSONDecodeError) as e:
+            raise Exception("JSON file could not be parsed: %s" % e)
+        if not isinstance(self.files, dict):
+            raise Exception("JSON root must be an object, not %s" % type(self.files).__name__)
         self.fd = 1
         
     def read(self, path, size, offset, fh):
@@ -70,7 +73,7 @@ class JSONFuse(LoggingMixIn, Operations):
             children = xpath_get(self.files, path)
             try:
                 ret += list(children.keys())
-            except:
+            except AttributeError:
                 pass
         return ret
 
@@ -80,6 +83,8 @@ class JSONFuse(LoggingMixIn, Operations):
         if key, return mode_file
         """
         children = xpath_get(self.files, path)
+        if children is None:
+            raise FuseOSError(errno.ENOENT)
         if type(children) == str:
             mode = mode_file()
             # return the length of string as filesize

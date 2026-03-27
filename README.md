@@ -1,6 +1,6 @@
 # JSON Fuse
 
-JSONFuse is a [FUSE](https://en.wikipedia.org/wiki/Filesystem_in_Userspace) based file system that 
+JSONFuse is a [FUSE](https://en.wikipedia.org/wiki/Filesystem_in_Userspace) based file system that:
 
 - uses a JSON object as source
 - serves the JSON keys as directories
@@ -14,7 +14,7 @@ Every week, I try to learn something new. And this week's topic was FUSE. I was 
 
 ## Known Issues
 
-This file system do not support creating directories/files or deleting/renaming them. Symlink is also not supported because I haven't implemented the requires functions.
+This file system does not support creating directories/files or deleting/renaming them. Symlink is also not supported because I haven't implemented the required functions.
 
 Also this file system cannot read anything if the JSON has any Array `[]` inside it. Everything should be Object `{}`
 
@@ -28,7 +28,7 @@ python3 json-fuse.py source.json /path/to/mount/point
 An example run-through would look like this
 
 ```
-$ tail countries.json
+$ tail example/countries.json
     "Zambia": {
         "city": "Lusaka",
         "population": "17094130",
@@ -44,7 +44,7 @@ $ tail countries.json
         "tld": ".zw"
     }
 }
-$ python3 json-fuse.py countries.json /mnt
+$ python3 json-fuse.py example/countries.json /mnt
 $ tree /mnt/Zimbabwe
 mnt
 └── Zimbabwe
